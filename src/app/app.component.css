@@ -1,0 +1,12 @@
+#scroller {
+  height: 100vh;
+  width: 100hw;
+  overflow: scroll;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.news {
+  padding: 30px;
+}
